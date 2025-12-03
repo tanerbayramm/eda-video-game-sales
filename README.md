@@ -43,6 +43,9 @@ This project demonstrates:
 - Grouping and aggregating   
 - Extracting insights and conclusions  
 
+## 📜 License
+MIT License
+
 ## 📬 Contact
 
 Feel free to reach out for questions or feedback.
