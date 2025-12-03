@@ -50,4 +50,4 @@ MIT License
 
 Feel free to reach out for questions or feedback.
 
-Taner Bayram — [Email](tan.bayrammm@gmail.com) | [Linkedin](www.linkedin.com/in/taner-bayram-966021325)
+Taner Bayram — [Email](tan.bayrammm@gmail.com) 
